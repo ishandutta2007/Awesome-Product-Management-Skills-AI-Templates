@@ -1,28 +1,44 @@
-# Awesome-Product-Management-Skills-AI-Templates
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ishandutta2007/Awesome-Product-Management-Skills-AI-Templates/)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Management-Skills-AI-Templates?style=social)](https://github.com/ishandutta2007/Awesome-Product-Management-Skills-AI-Templates/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# 🚀 Awesome-Product-Management-Skills-AI-Templates
 
-> Curated directory of top **Product Management software**, **AI PM skill packs**, **PRD generators**, **customer feedback portals**, **prioritization frameworks**, and **product analytics tools**.
+<img src="./assets/banner.svg" alt="Awesome Product Management Skills &amp; AI Templates Banner" width="100%">
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-Product-Management-Skills-AI-Templates/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Product-Management-Skills-AI-Templates/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Product-Management-Skills-AI-Templates?style=social" alt="GitHub stars" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+<p align="center">
+  <strong>Curated directory of top Product Management software, AI PM skill packs, PRD generators, customer feedback portals, prioritization frameworks, and product analytics tools.</strong>
+</p>
+
+</div>
+
+---
 
 A comprehensive, SEO-optimized guide tracking notable **SaaS platforms** and **open-source GitHub projects** engineered for modern product managers, AI-native software builders, product operations teams, startup founders, and autonomous coding agents.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global product management software and AI-assisted workflow sector is valued at approximately **$8.4B to $10.1B** and is projected to expand to **$22.7B–$23.7B** over the next decade at a compound annual growth rate (**CAGR**) of **9.9%–11.6%**. 
 
@@ -30,11 +46,11 @@ Market dynamics exhibit a **hybrid competitive structure**: the enterprise tier 
 
 ---
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 The following SaaS platforms provide hosted product discovery, roadmapping, PRD creation, and feedback management. Table entries are sorted in **descending order by company valuation / revenue scale**.
 
-| Product | Valuation / Revenue Scale | Starting Price | Free Tier Limits / Free Trial Limits | Key Capabilities |
+| Product | 🏢 Valuation / Revenue Scale | 💵 Starting Price | 🎁 Free Tier Limits / Free Trial Limits | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Jira Product Discovery (Atlassian)](https://atlassian.com/software/jira/product-discovery)** | **$34B Valuation** (Public: NASDAQ: TEAM) | $10/creator/month (billed monthly) or $100/creator/year (Standard) | **Free forever plan**: Up to 3 creators, unlimited contributors/viewers, 2 GB total storage, and 100 automation rule runs/month. | Ideation, weighted prioritization matrix, and roadmap workspace deeply integrated with Jira delivery epics. |
 | **[Productboard](https://productboard.com)** | **$1.7B Valuation** ($125M Series D) | $19/maker/month (billed annually) / $25 billed monthly (Plus tier) | **Free forever plan**: 1 maker, up to 25 contributors, 500 feedback notes, 1 teamspace, 1 product portal, and limited shared AI Spark credits. | Customer-centric product system unifying user feedback repositories, AI insights extraction, and roadmaps. |
@@ -49,11 +65,11 @@ The following SaaS platforms provide hosted product discovery, roadmapping, PRD 
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 Curated open-source product management tools, agentic PM prompt skill kits, self-hosted customer feedback boards, and product analytics platforms. Repositories are sorted in **descending order by GitHub stargazers count**.
 
-| Project | Stars | Focus Area | Description |
+| Project | ⭐ Stars | 🎯 Focus Area | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[Spec-Kit](https://github.com/github/spec-kit)** | [![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=social&color=white)](https://github.com/github/spec-kit/stargazers) | Spec-Driven Dev / PRDs | Open-source toolkit and structured schema for turning product intent into executable technical specs and user stories for AI agents. |
 | **[Excalidraw](https://github.com/excalidraw/excalidraw)** | [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) | Discovery & Wireframing | Virtual collaborative whiteboard for customer journey mapping, architecture diagramming, and product wireframing. |
@@ -83,20 +99,37 @@ Curated open-source product management tools, agentic PM prompt skill kits, self
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome contributions from product managers, founders, engineers, and AI practitioners!
+We welcome contributions from product managers, founders, engineers, and AI practitioners! 💡
 
-1. Fork this repository.
+1. Fork this repository 🍴.
 2. Add or update entries in `README.md`:
-   - For SaaS tools: ensure pricing, free tier/trial limits, and valuation/revenue scale are backed by public sources.
-   - For Open-Source repos: ensure the repository link is valid and include the stargazer badge (`style=social&color=white`) linking directly to `/stargazers`.
+   - 🏢 For SaaS tools: ensure pricing, free tier/trial limits, and valuation/revenue scale are backed by public sources.
+   - 💻 For Open-Source repos: ensure the repository link is valid and include the stargazer badge (`style=social&color=white`) linking directly to `/stargazers`.
 3. Keep descriptions factual, concise, and focused on product management value.
-4. Submit a Pull Request with a clear title and summary of changes.
+4. Submit a Pull Request with a clear title and summary of changes 🚀.
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for exploring this curated repository! If you find this collection helpful for your product discovery, roadmapping, and AI-native PM workflows:
+
+- ⭐ **Star this repository** to show your support and help others discover it.
+- 🍴 **Fork it** to customize your personal PM toolkit or contribute back.
+- 📢 **Share it** with your team, fellow product managers, and builders.
+- ☕ **Buy a coffee / Sponsor**: If you'd like to support ongoing curation and open-source maintenance, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Product-Management-Skills-AI-Templates&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Product-Management-Skills-AI-Templates&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Product-Management-Skills-AI-Templates&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Product-Management-Skills-AI-Templates&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
 
 - This list is a community-curated educational resource; inclusion does not constitute endorsement.
 - All product pricing, tier limits, and valuation figures reflect publicly available data as of November 2026 and are subject to change by their respective providers.
@@ -104,5 +137,6 @@ We welcome contributions from product managers, founders, engineers, and AI prac
 
 ---
 
-**Built for product managers, AI-native builders, startup founders, and product operations teams.**  
-*Star this repository if you find it helpful for your product discovery and roadmap planning!*
+<div align="center">
+  <sub>Built with ❤️ for product managers, AI-native builders, startup founders, and product operations teams.</sub>
+</div>
